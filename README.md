@@ -1,6 +1,6 @@
 - 👋 @MaoDeMatos
 - 👀 I’m interested in front/back/web/IA, all !
-- 💞️ More knowledge about the front-end Web development
+- 💞️ More knowledge about front-end Web development
 - 📫 http://maodematos.rf.gd/
 <!--- - 🌱 Currently learning Bootstrap --->
 
