@@ -1,8 +1,41 @@
-- 👋 @MaoDeMatos
-- 👀 I’m interested in front/back/web/IA, all !
-- 💞️ More knowledge about Web development
-- 📫 http://maodematos.rf.gd/
-- 💖 VS Code
+```php
+use App\Models\Users\User;
+
+$maoDeMatos = new User();
+
+echo '<h2>';
+echo ucfirst($maoDeMatos->getName());         // Print user name in h2 tag
+echo '</h2>' . PHP_EOL;
+
+echo PHP_EOL . '<code class="php_code">';
+print_r($maoDeMatos->getSkills());            // Print user skills array in code block
+echo '</code>' . PHP_EOL;
+
+echo PHP_EOL;
+echo 'Website Url : ';
+echo '<a href="' . $maoDeMatos->getWebsiteUrl() . '">';
+echo $maoDeMatos->getWebsiteUrl();            // Print user website url
+echo '</a>';
+```
+
+## Mao De Matos
+```php
+Array
+(
+  [Frontend] => Array
+  (
+    [0] => "HTML"
+    [1] => "CSS"
+    [2] => "JavaScript/JQuery"
+  )
+  [Backend] => Array
+  (
+    [0] => "PHP"
+    [1] => "MySQL/MariaDB"
+  )
+)
+```
+Website Url : http://maodematos.rf.gd/home
 
 <!---
 MaoDeMatos/MaoDeMatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
