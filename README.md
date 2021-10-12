@@ -35,7 +35,7 @@ Array
   )
 )
 ```
-Website Url : http://maodematos.rf.gd/home
+Website Url : http://maodematos.rf.gd/
 
 <!---
 MaoDeMatos/MaoDeMatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
