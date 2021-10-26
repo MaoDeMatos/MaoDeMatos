@@ -1,7 +1,9 @@
 ```php
 use App\Models\Users\User;
+use App\Models\Database;
 
-$maoDeMatos = new User();
+$db = new Database($_SERVER['DOCUMENT_ROOT'] . DIRECTORY_SEPARATOR . 'settings.json');
+$maoDeMatos = $db->getUser('De Matos', 'Mao');
 
 echo '<h2>';
 echo ucfirst($maoDeMatos->getName());         // Print user name in h2 tag
