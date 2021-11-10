@@ -1,9 +1,8 @@
 <h3 align="center">I'm Mao, student in apps conception & developement !</h3>
 
 <p align="center">
-  <a href="#"><img height="32" src="./assets/globe.svg" /></a>&nbsp; &nbsp;
-  <a href="#"><img height="32" src="./assets/gmail.svg" /></a>&nbsp; &nbsp;
-  <a href="#"><img height="32" src="./assets/linkedin.svg" /></a>
+  <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" /></a>&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mao-de-matos"><img height="32" src="./assets/linkedin.svg" /></a>
 </p>
 
 <h3 align="center">Languages</h3>
