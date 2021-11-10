@@ -1,9 +1,30 @@
 <h3 align="center">I'm Mao, student in apps conception & developement !</h3>
 
+<p align="center">
+  <a href="#"><img height="32" src="./assets/globe.svg" /></a>&nbsp; &nbsp;
+  <a href="#"><img height="32" src="./assets/gmail.svg" /></a>&nbsp; &nbsp;
+  <a href="#"><img height="32" src="./assets/linkedin.svg" /></a>
+</p>
+
+<h3 align="center">Languages</h3>
+
+  <br/>
+
+<p align="center">
+  <img height="32" src="./assets/php.svg" />&nbsp; &nbsp;
+  <img height="32" src="./assets/javascript.svg" />&nbsp; &nbsp;
+  <img height="32" src="./assets/jquery.svg" />&nbsp; &nbsp;
+  <img height="32" src="./assets/sass.svg" />
+</p>
+
 <h3 align="center">Github Stats</h3>
+
+  <br/>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaoDeMatos&theme=dracula" />
+  <br/>
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaoDeMatos&layout=compact&theme=dracula" />
 </p>
 
