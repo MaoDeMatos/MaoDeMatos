@@ -1,4 +1,4 @@
-<h3 align="center">I'm Mao, student in apps conception & developement !</h3>
+<h3 align="center">I'm Mao, student in web apps conception & developement !</h3>
 
 <p align="center">
   <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" /></a>&nbsp; &nbsp;
