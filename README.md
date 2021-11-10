@@ -7,13 +7,14 @@
 
   <br/>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & tools</h3>
 
 <p align="center">
   <img height="32" src="./assets/php.svg" />&nbsp; &nbsp;
   <img height="32" src="./assets/javascript.svg" />&nbsp; &nbsp;
   <img height="32" src="./assets/jquery.svg" />&nbsp; &nbsp;
-  <img height="32" src="./assets/sass.svg" />
+  <img height="32" src="./assets/sass.svg" />&nbsp; &nbsp;
+  <img height="32" src="./assets/docker.svg" />
 </p>
 
   <br/>
