@@ -5,9 +5,9 @@
   <a href="https://www.linkedin.com/in/mao-de-matos"><img height="32" src="./assets/linkedin.svg" /></a>
 </p>
 
-<h3 align="center">Languages</h3>
-
   <br/>
+
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <img height="32" src="./assets/php.svg" />&nbsp; &nbsp;
@@ -16,9 +16,9 @@
   <img height="32" src="./assets/sass.svg" />
 </p>
 
-<h3 align="center">Github Stats</h3>
-
   <br/>
+
+<h3 align="center">Github Stats</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaoDeMatos&theme=dracula" />
