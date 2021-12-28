@@ -1,23 +1,23 @@
-<h3 align="center">I'm Mao, student in web apps conception & developement !</h3>
+<h3 align="center">I'm Mao, student in software conception & development !</h3>
 
 <p align="center">
-  <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" /></a>&nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/mao-de-matos"><img height="32" src="./assets/linkedin.svg" /></a>
+  <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" title="Portfolio" alt="Portfolio"/></a>&nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mao-de-matos"><img height="32" src="./assets/linkedin.svg" title="LinkedIn" alt="LinkedIn"/></a>
 </p>
 
-  <br/>
+<br/>
 
 <h3 align="center">Languages & tools</h3>
 
 <p align="center">
-  <img height="32" src="./assets/php.svg" />&nbsp; &nbsp;
-  <img height="32" src="./assets/javascript.svg" />&nbsp; &nbsp;
-  <img height="32" src="./assets/jquery.svg" />&nbsp; &nbsp;
-  <img height="32" src="./assets/sass.svg" />&nbsp; &nbsp;
-  <img height="32" src="./assets/docker.svg" />
+  <a href="https://www.php.net/"><img height="32" src="./assets/php.svg" title="PHP" alt="PHP"/></a>&nbsp; &nbsp;
+  <a href="https://www.javascript.com/"><img height="32" src="./assets/javascript.svg" title="JavaScript" alt="JavaScript"/></a>&nbsp; &nbsp;
+  <a href="https://jquery.com/"><img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/></a>&nbsp; &nbsp;
+  <a href="https://sass-lang.com/"><img height="32" src="./assets/sass.svg" title="SASS" alt="SASS"/></a>&nbsp; &nbsp;
+  <a href="https://www.docker.com/"><img height="32" src="./assets/docker.svg" title="Docker" alt="Docker"/></a>
 </p>
 
-  <br/>
+<br/>
 
 <h3 align="center">Github Stats</h3>
 
