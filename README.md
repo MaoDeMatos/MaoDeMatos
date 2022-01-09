@@ -1,7 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 <h3 align="center">I'm Mao, student in software conception & development !</h3>
-<br/>
 
 <p align="center">
   <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" title="Portfolio" alt="Portfolio"/></a>&nbsp; &nbsp;
@@ -11,7 +10,6 @@
 <br/>
 
 <h3 align="center">Languages & tools</h3>
-<br/>
 
 <p align="center">
   <a href="https://www.php.net/"><img height="32" src="./assets/php.svg" title="PHP" alt="PHP"/></a>&nbsp; &nbsp;
@@ -24,7 +22,6 @@
 <br/>
 
 <h3 align="center">Learning</h3>
-<br/>
 
 <p align="center">
   <a href="https://reactjs.org/"><img height="32" src="./assets/reactjs.svg" title="ReactJS" alt="ReactJS"/></a>
