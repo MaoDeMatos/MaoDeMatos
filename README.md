@@ -1,4 +1,7 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
 <h3 align="center">I'm Mao, student in software conception & development !</h3>
+<br/>
 
 <p align="center">
   <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" title="Portfolio" alt="Portfolio"/></a>&nbsp; &nbsp;
@@ -8,6 +11,7 @@
 <br/>
 
 <h3 align="center">Languages & tools</h3>
+<br/>
 
 <p align="center">
   <a href="https://www.php.net/"><img height="32" src="./assets/php.svg" title="PHP" alt="PHP"/></a>&nbsp; &nbsp;
@@ -19,7 +23,14 @@
 
 <br/>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">Learning</h3>
+<br/>
+
+<p align="center">
+  <a href="https://reactjs.org/"><img height="32" src="./assets/reactjs.svg" title="ReactJS" alt="ReactJS"/></a>
+</p>
+
+<br/>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaoDeMatos&theme=dracula" />
@@ -28,4 +39,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaoDeMatos&layout=compact&theme=dracula" />
 </p>
 
-<h4 align="center">Stats provided by <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra's GitHub Readme Stats</a></h4>
+<p align="center">Stats provided by <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra's GitHub Readme Stats</a></p>
