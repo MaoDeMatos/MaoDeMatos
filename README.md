@@ -17,7 +17,6 @@
   <a href="https://www.php.net/"><img height="32" src="./assets/php.svg" title="PHP" alt="PHP"/></a>&nbsp; &nbsp;
   <a href="https://www.javascript.com/"><img height="32" src="./assets/javascript.svg" title="JavaScript" alt="JavaScript"/></a>&nbsp; &nbsp;
   <a href="https://jquery.com/"><img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/></a>&nbsp; &nbsp;
-  <a href="https://sass-lang.com/"><img height="32" src="./assets/sass.svg" title="SASS" alt="SASS"/></a>&nbsp; &nbsp;
   <a href="https://www.docker.com/"><img height="32" src="./assets/docker.svg" title="Docker" alt="Docker"/></a>
 </p>
 
@@ -34,7 +33,8 @@
 
 <p align="center">
   <a href="https://symfony.com/"><img height="32" src="./assets/symfony.svg" title="Symfony" alt="Symfony"/></a>&nbsp; &nbsp;
-  <a href="https://getbootstrap.com/"><img height="32" src="./assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap"/></a>
+  <a href="https://getbootstrap.com/"><img height="32" src="./assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap"/></a>&nbsp; &nbsp;
+  <a href="https://sass-lang.com/"><img height="32" src="./assets/sass.svg" title="SASS" alt="SASS"/></a>
 </p>
 
 <br/>
