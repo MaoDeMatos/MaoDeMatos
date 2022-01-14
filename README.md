@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
-<h3 align="center">I'm Mao, student in software conception & development !</h3>
+<h2 align="center">Hey, I'm Mao 👋</h2>
+
+<h3 align="center">I study software conception & development !</h3>
 
 <p align="center">
   <a href="http://maodematos.rf.gd"><img height="32" src="./assets/globe.svg" title="Portfolio" alt="Portfolio"/></a>&nbsp; &nbsp;
@@ -24,7 +26,15 @@
 <h3 align="center">Learning</h3>
 
 <p align="center">
-  <a href="https://reactjs.org/"><img height="32" src="./assets/reactjs.svg" title="ReactJS" alt="ReactJS"/></a>
+  <a href="https://reactjs.org/"><img height="32" src="./assets/reactjs.svg" title="ReactJS" alt="ReactJS"/></a>&nbsp; &nbsp;
+  <a href="https://tailwindcss.com/"><img height="32" src="./assets/tailwindcss.svg" title="Tailwindcss" alt="Tailwindcss"/></a>
+</p>
+
+<h3 align="center">Tested</h3>
+
+<p align="center">
+  <a href="https://symfony.com/"><img height="32" src="./assets/symfony.svg" title="Symfony" alt="Symfony"/></a>&nbsp; &nbsp;
+  <a href="https://getbootstrap.com/"><img height="32" src="./assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap"/></a>
 </p>
 
 <br/>
