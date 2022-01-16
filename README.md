@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/mao-de-matos"><img height="32" src="./assets/linkedin.svg" title="LinkedIn" alt="LinkedIn"/></a>
 </p>
 
-<br/>
-
 <h3 align="center">Languages & tools</h3>
 
 <p align="center">
@@ -19,8 +17,6 @@
   <a href="https://jquery.com/"><img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/></a>&nbsp; &nbsp;
   <a href="https://www.docker.com/"><img height="32" src="./assets/docker.svg" title="Docker" alt="Docker"/></a>
 </p>
-
-<br/>
 
 <h3 align="center">Learning</h3>
 
