@@ -34,7 +34,7 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://tailwindcss.com/">
-    <img height="32" src="./assets/tailwindcss.svg" title="Tailwindcss" alt="Tailwindcss"/>
+    <img height="32" src="./assets/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS"/>
     </a>
 </p>
 
