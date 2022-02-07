@@ -17,10 +17,20 @@
 <h3 align="center">Languages & tools</h3>
 
 <p align="center">
+  <a href="https://www.docker.com/">
+    <img height="32" src="./assets/docker.svg" title="Docker" alt="Docker"/>
+  </a>
+  &nbsp; &nbsp;
   <a href="https://www.php.net/">
     <img height="32" src="./assets/php.svg" title="PHP" alt="PHP"/>
   </a>
   &nbsp; &nbsp;
+  <a href="https://symfony.com/">
+    <img height="32" src="./assets/symfony.svg" title="Symfony" alt="Symfony"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.javascript.com/">
     <img height="32" src="./assets/javascript.svg" title="JavaScript" alt="JavaScript"/>
   </a>
@@ -29,30 +39,23 @@
     <img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://www.docker.com/">
-    <img height="32" src="./assets/docker.svg" title="Docker" alt="Docker"/>
-  </a>
-  &nbsp; &nbsp;
   <a href="https://tailwindcss.com/">
     <img height="32" src="./assets/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS"/>
-    </a>
-</p>
-
-<h3 align="center">Learning</h3>
-
-<p align="center">
+  &nbsp; &nbsp;
+  </a>
   <a href="https://reactjs.org/">
     <img height="32" src="./assets/reactjs.svg" title="ReactJS" alt="ReactJS"/>
-    </a>
+  </a>
 </p>
 
-<h3 align="center">Tested</h3>
+<!-- <h3 align="center">Learning</h3> -->
+
+<!-- <p align="center"> -->
+<!-- </p> -->
+
+<h3 align="center">Tried</h3>
 
 <p align="center">
-  <a href="https://symfony.com/">
-    <img height="32" src="./assets/symfony.svg" title="Symfony" alt="Symfony"/>
-  </a>
-  &nbsp; &nbsp;
   <a href="https://laravel.com/">
     <img height="32" src="./assets/laravel.svg" title="Laravel" alt="Laravel"/>
   </a>
@@ -67,7 +70,7 @@
   &nbsp; &nbsp;
   <a href="https://sass-lang.com/">
     <img height="32" src="./assets/sass.svg" title="SASS" alt="SASS"/>
-    </a>
+  </a>
 </p>
 
 <br/>
