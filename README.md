@@ -35,16 +35,16 @@
     <img height="32" src="./assets/javascript.svg" title="JavaScript" alt="JavaScript"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://jquery.com/">
-    <img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/>
-  </a>
-  &nbsp; &nbsp;
   <a href="https://tailwindcss.com/">
     <img height="32" src="./assets/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS"/>
-  &nbsp; &nbsp;
   </a>
+  &nbsp; &nbsp;
   <a href="https://reactjs.org/">
     <img height="32" src="./assets/reactjs.svg" title="ReactJS" alt="ReactJS"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://nextjs.org/">
+    <img height="32" src="./assets/nextjs.svg" title="NextJS" alt="NextJS"/>
   </a>
 </p>
 
@@ -70,6 +70,10 @@
   &nbsp; &nbsp;
   <a href="https://sass-lang.com/">
     <img height="32" src="./assets/sass.svg" title="SASS" alt="SASS"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://jquery.com/">
+    <img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/>
   </a>
 </p>
 
