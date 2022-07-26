@@ -21,20 +21,16 @@
     <img height="32" src="./assets/docker.svg" title="Docker" alt="Docker"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://www.php.net/">
-    <img height="32" src="./assets/php.svg" title="PHP" alt="PHP"/>
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://symfony.com/">
-    <img height="32" src="./assets/symfony.svg" title="Symfony" alt="Symfony"/>
+  <a href="https://www.typescriptlang.org/">
+    <img height="32" src="./assets/typescript.svg" title="TypeScript" alt="TypeScript"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.javascript.com/">
+  <!-- <a href="https://www.javascript.com/">
     <img height="32" src="./assets/javascript.svg" title="JavaScript" alt="JavaScript"/>
   </a>
-  &nbsp; &nbsp;
+  &nbsp; &nbsp; -->
   <a href="https://tailwindcss.com/">
     <img height="32" src="./assets/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS"/>
   </a>
@@ -60,10 +56,16 @@
     <img height="32" src="./assets/laravel.svg" title="Laravel" alt="Laravel"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://vuejs.org/">
-    <img height="32" src="./assets/vue.svg" title="Vue" alt="Vue"/>
+  <a href="https://symfony.com/">
+    <img height="32" src="./assets/symfony.svg" title="Symfony" alt="Symfony"/>
   </a>
   &nbsp; &nbsp;
+  <a href="https://jquery.com/">
+    <img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://getbootstrap.com/">
     <img height="32" src="./assets/bootstrap.svg" title="Bootstrap" alt="Bootstrap"/>
   </a>
@@ -72,8 +74,8 @@
     <img height="32" src="./assets/sass.svg" title="SASS" alt="SASS"/>
   </a>
   &nbsp; &nbsp;
-  <a href="https://jquery.com/">
-    <img height="32" src="./assets/jquery.svg" title="JQuery" alt="JQuery"/>
+  <a href="https://vuejs.org/">
+    <img height="32" src="./assets/vue.svg" title="Vue" alt="Vue"/>
   </a>
 </p>
 
