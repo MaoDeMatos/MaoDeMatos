@@ -24,6 +24,10 @@
   <a href="https://www.typescriptlang.org/">
     <img height="32" src="./assets/typescript.svg" title="TypeScript" alt="TypeScript"/>
   </a>
+  &nbsp; &nbsp;
+  <a href="https://go.dev/">
+    <img height="32" src="./assets/golang.svg" title="Golang" alt="Golang"/>
+  </a>
 </p>
 
 <p align="center">
